@@ -1,0 +1,244 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Essay upon the original and designe of magistracie, or, A Modest vindication of the late proceedings in England by one who hates rebellion and tyranny.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38644</idno>
+            <idno type="STC">Wing E3301</idno>
+            <idno type="STC">ESTC R29794</idno>
+            <idno type="EEBO-CITATION">11207997</idno>
+            <idno type="OCLC">ocm 11207997</idno>
+            <idno type="VID">46770</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38644)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46770)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1441:48)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Essay upon the original and designe of magistracie, or, A Modest vindication of the late proceedings in England by one who hates rebellion and tyranny.</title>
+               </titleStmt>
+               <extent>13 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.] ,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>MDCLXXXIX [1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Justices of the peace --  England.</term>
+               <term>Liberty.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46770:1"/>
+            <pb facs="tcp:46770:1"/>
+            <p>AN ESSAY Upon The ORIGINAL AND DESIGNE OF MAGISTRACIE OR A Modeſt Vindication of the Late <hi>Proceedings</hi> IN <hi>England</hi>
+            </p>
+            <p>By one who Equally hates Rebellion and Tyranny.</p>
+            <p>Printed in the Year MDCLXXXIX.</p>
+            <pb facs="tcp:46770:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="essay">
+            <pb facs="tcp:46770:2"/>
+            <head>AN Eſſay upon the Original, and Deſign of MAGISTRCY OR A Modeſt Vindication of the late Proccedings in ENGLAND</head>
+            <p>AS the Right knowledge of the <hi>Supream Magiſtrate,</hi> is the <hi>Ba<g ref="char:EOLhyphen"/>ſis</hi> and <hi>Foundation</hi> of our <hi>Submiſions,</hi> and the cauſe of all the Bleſſings<g ref="char:punc">▪</g> which flow from a well tempered <hi>Government,</hi> ſo the Miſapprehenſions and falſe Notions that many People, either through Ignorance, or the prejudice of Education, frame to them<g ref="char:EOLhyphen"/>ſelves of his <hi>Power,</hi> are no leſs remarkable for their contrary effects.</p>
+            <p>We fall into two <hi>Extremes</hi> equally Dangerous, if either we give the People ſo much Liberty, that the <hi>Magiſtrate</hi> cannot go about theſe great Ends, f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r which he was deſigned, but like a <hi>Weather-Cock,</hi> is turned about at the pleaſure of the <hi>Mobile;</hi> or ſuch a bound<g ref="char:EOLhyphen"/>leſs power to the <hi>Magiſtrate,</hi> as makes the Property of the Subject al<g ref="char:EOLhyphen"/>together Precarious, depending upon the Caprice of an inſatiable <hi>Monacch.</hi>
+            </p>
+            <pb n="2" facs="tcp:46770:3"/>
+            <p>To keep a juſt <hi>Ballance,</hi> we muſt conſider <hi>Magiſtracy</hi> as it was firſt Inſtitute by <hi>God Almighty,</hi> before it was depraved by the Ambition, Pride, and Avarice of thoſe who were inveſted in it. So that in its Original, it may be defined, a Power delegat from God, for main<g ref="char:EOLhyphen"/>taining Order, rewarding the Vertues, and puniſhing the Crimes of Mankind; The Application of which power is left free to any in<g ref="char:EOLhyphen"/>dependent People or Nation.</p>
+            <p>It cannot be doubted, but that God as Creator of all things, might in his own Perſon have Exerced a <hi>Soveraign Power</hi> over all his <hi>Creatures,</hi> which ſince he was not pleaſed to do; He thought fit in His infinite Wiſdom to appoint his <hi>Lieutenants</hi> here on <hi>Earth,</hi> to whom he Communicats ſome Rays of his <hi>Divine Majeſtie,</hi> both to beget a greater Reverence for their Perſons, and procure a chearful Obedience from thoſe that were to be Subject; So that, the profound Deference and blind Submiſſion, which <hi>Millions</hi> of Men pay to a <hi>Mortal;</hi> perhaps ſubject to as many Infirmities as the moſt part of thoſe he Rules over, can be aſcribed to nothing elſe but the firm Perſwaſion of a <hi>Divine Inſtitution;</hi> But that we may the more admire the Goodneſs of God in ordaining <hi>Magiſtracie,</hi> he hath no leſs pro<g ref="char:EOLhyphen"/>poſed Mans happineſs then his own Glory, that we might find it our Intereſt as well as Duty in Obeying; For tho Man was born free, And conſequently by Nature deſirous of Liberty, yet an unbound<g ref="char:EOLhyphen"/>ed freedom, could have done him very little Service in a natural State, when Innocency was no protection from the oppreſſion of the Stronger; But Rapines, Violence and Murder were the chief wayes of acquiring Right, in this Univerſal <hi>Chaos,</hi> where <hi>homo</hi> was <hi>homini Lupus,</hi> nothing was thought <hi>
+                  <g ref="char:V">Ʋ</g>nlawful,</hi> that Ambition, Ma<g ref="char:EOLhyphen"/>lice or Cruelty could propoſe, ſo that the <hi>Weaker</hi> were driven to a neceſſity of uniting their Forces againſt the <hi>Stronger.</hi> Then began they to Errect <hi>Societies</hi> and make <hi>Laws</hi> for Regulating them, the execut<g ref="char:EOLhyphen"/>ing of which Laws was Committed to one or moe Perſons, as the <hi>Ma<g ref="char:EOLhyphen"/>jor</hi> part of the Society thought fit to Truſt, who had the Name of <hi>Captain, General</hi> or <hi>King;</hi> It was He who led them out to <hi>Battel,</hi> who diſpoſed of <hi>Priſes,</hi> and puniſhed <hi>Malefactors;</hi> His Commands were eaſily obeyed becauſe but few, and all Juſt, Honeſt, and profitable. Theſe had not Learned the <hi>Arcana Imperij,</hi> or ſecret ways to enſlave
+<pb n="3" facs="tcp:46770:3"/>
+their People, but their Eminent Virtue and ſingular Valour, both procured their Dignity and maintained them in it, and having no <hi>Sycophant Flatterers</hi> about them to abuſe their eaſie Credality, they had not forgot that the Peoples Liberty was reſigned for no other end, but for obtaining a greater happineſs under their Protection, then what they could have propoſed if every Individual had retained it in his own Perſon</p>
+            <p>There is no other Original of <hi>Magiſtracie</hi> to be Learned from <hi>Sa<g ref="char:EOLhyphen"/>cred</hi> or <hi>Profane Hiſtorie,</hi> for tho the <hi>Patriarchs</hi> had the Government of their own Families, (which by reaſon of their long Age were ve<g ref="char:EOLhyphen"/>ry numerous,) yet that right was derived from the Law of Nature and not from any <hi>Civil Obligation;</hi> They had for the moſt part no fixt Habitation, but lived as <hi>Strangers</hi> and <hi>Sojourners</hi> by the favour of other Princes, and were never model'd into a <hi>Common wealth.</hi>
+            </p>
+            <p>When <hi>Domanions</hi> were enlarged and <hi>Empires</hi> began to be erected, different forms of Government were eſtabliſhed according to the va<g ref="char:EOLhyphen"/>rious inclinations of People, when the <hi>Conqueror</hi> gave Laws to the <hi>Conquered</hi> it was called <hi>Deſpotick;</hi> But when a free People did enter into a Contract and gave up their Liberty on certain Conditions, it was called a <hi>Limited Government,</hi> and theſe conditions the Funda<g ref="char:EOLhyphen"/>mental Laws.</p>
+            <p>This <hi>Soveraignty</hi> was either entailed upon a particular Family for conſiderable ſervices done to the <hi>Common wealth,</hi> or it was only to be held during Life whence Succeſſion and Election.</p>
+            <p>There is a <hi>Majeſtie</hi> in every free State, which is nothing elſe but an Independent Power upon Earth tyed to no Laws but theſe of God; theſe of Nature and Nations, and the Fundamental Laws of a King<g ref="char:EOLhyphen"/>dom.</p>
+            <p>This <hi>Majeſtie</hi> is either Real, or Perſonal, <hi>Real</hi> is that Independencie which every free State hath in Relation to one another, <hi>Perſonal,</hi> that Right when its lodged in a particular Perſon, which tho it be inſe<g ref="char:EOLhyphen"/>parable from the <hi>Soveraign Power</hi> for the greater Splendour, yet it may be violate when the <hi>Real</hi> remains entire, otherwiſe the freedom and Independencie of a Nation would be extinct by the Death or Captivity of the Prince.</p>
+            <p>To <hi>Majeſty</hi> or <hi>Soveraign Power,</hi> are annexed the <hi>Regalia</hi> or <hi>Regal</hi>
+               <pb n="4" facs="tcp:46770:4"/>
+Rights which are leſs or more, according to the meaſure of Liberty given from, or reſerved to the People or the Repreſentatives at the firſt Conſtitution; For inſtance, a King may have pow<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r to make Warr and Peace, and yet cannot raiſe Money, the <hi>Legiſlative Power</hi> may be alſo divided as its in <hi>England</hi> betwixt <hi>King</hi> and <hi>Parliament,</hi> and generally in all mixt <hi>Governments;</hi> For that Maxim, That <hi>jura Maje<g ref="char:EOLhyphen"/>ſtatis ſunt indiviſa,</hi> does only take place in an <hi>Abſolute Monarchy.</hi>
+            </p>
+            <p>That Power which the People reſerveth from the <hi>Soveraign</hi> is called <hi>Liberty,</hi> and its eitheir Tacite or Expreſs; Tacite Liberty is the Exemption of ſuch things as cannot fall under the Cogniſance of the <hi>Supreme Power,</hi> which may be reduced to three. <hi>1ſt.</hi> Religion or the Empire over the Conſcience, which belongs only to <hi>God Al<g ref="char:EOLhyphen"/>mighty. 2dly.</hi> The Power of <hi>Life</hi> and <hi>Death</hi> till we forefault them by the <hi>Divine Law, or Municipal Laws</hi> of a <hi>Kingdom. 3dly.</hi> Our <hi>Goods</hi> and <hi>He<g ref="char:EOLhyphen"/>ritages,</hi> which cannot be taken from us without a <hi>Judicial Proceſs,</hi> or when the good of the <hi>Common wealth</hi> we live in requires a ſhare of them. Theſe three Priviledges were ever reſerved in the moſt <hi>Ample Reſignation of Liberty;</hi> The Firſt we cannot give away becauſe not ours, we have right to the ſecond as Men, who are to be Governed by Reaſon; to the Third as Members of a <hi>Societie</hi> or <hi>Common-wealth.</hi>
+            </p>
+            <p>
+               <hi>Expreſs Liberty</hi> is a <hi>Stipulation,</hi> whereby ſomethings are by expreſs paction eximed from the Power of the <hi>Soveraign,</hi> by the People or their Repreſentatives, which Reſervations are called Priviledges; and are either thus eſtabliſhed by Contract and Agreement at the firſt Conſtitution, or are afterwards granted by Princes, when they would either oblige or gratifie their People, as was the <hi>Magna Char<g ref="char:EOLhyphen"/>ta</hi> in <hi>England,</hi> and Edict of <hi>Nants</hi> in <hi>France,</hi> or when they deſire any favour from them, as was the <hi>Golden bull,</hi> wherein the Emperour <hi>Charles</hi> the <hi>4th.</hi> granted conſiderable Immunities to the <hi>Electors,</hi> to engage them to chuſe the ſtupid <hi>Venſiaſlus</hi> his Son, Succeſſor in the <hi>Empire.</hi>
+            </p>
+            <p>This Property of the Subject hath ever been the <hi>Eye ſore</hi> of <hi>Mo<g ref="char:EOLhyphen"/>narchs,</hi> tho he has as juſt a claim to it, as theſe have to their <hi>Crowns,</hi> and whoever goes about to ſubvert it diſſolves the Conſtitution, and Forefaults his own Title; ſince the ſame Laws that beſtowed this at
+<pb n="5" facs="tcp:46770:4"/>
+the ſame time ſecured that, and maintaining the one was made an inſeparable condition of poſſeſſing the other. Neither can a Rape committed on our Liberty, be excuſed upon pretence that Authority is derived from Heaven. For the <hi>Great Soveraign</hi> of the <hi>
+                  <g ref="char:V">Ʋ</g>niverſe,</hi> ordained <hi>Magiſtracie</hi> for the preſervation not the deſtruction of Man<g ref="char:EOLhyphen"/>kind; and he never ſent down any perſon or Family from Heaven with a Commiſſion to enſlave a People or Nation, to whom the Ap<g ref="char:EOLhyphen"/>plication of the <hi>Civil power</hi> was left Abſolutlie free: So that they might beſtow it on whom and after what manner they pleaſed; For tho God loves order, yet he never approved of Tyranny and Op<g ref="char:EOLhyphen"/>preſſion, and he who is all Juſtice and Mercy can never be ſuppoſed to Authorize what is contrary to both. So that whoſoever Acts be<g ref="char:EOLhyphen"/>yond his Commiſſion and deſtroys the <hi>Flock</hi> inſtead of protecting it. Is ſo far from being Gods <hi>Vicegerent,</hi> that he is to be lookt on as the Common Enemie of Mankind.</p>
+            <p>The Violation of the Subjects property is called <hi>Tyranny,</hi> A name which at firſt did only ſignifie the <hi>Regal power,</hi> but when Liber<g ref="char:EOLhyphen"/>ty began to be oppreſſed through the Ambition, Wickedneſs or E<g ref="char:EOLhyphen"/>vil management of the Governours it was made uſe of, to denot the exceſs of <hi>power.</hi>
+            </p>
+            <p>There are two ſorts of <hi>Tyrants,</hi> thoſe in <hi>Title</hi> and thoſe in <hi>Admini<g ref="char:EOLhyphen"/>ſtration of the Government.</hi> The firſt ſort is he, who Uſurps the <hi>Crown</hi> without any Title or juſt pretence, as did <hi>Oliver Cromwel</hi> in <hi>England,</hi> of the other, one who hath a juſt right to the Crown but poſtponning the publick good, Acts <hi>Arbitrarly</hi> and contrary to Law: Such a <hi>Tyr<g ref="char:EOLhyphen"/>rant</hi> was <hi>Philip</hi> the Second of <hi>Spain.</hi>
+            </p>
+            <p>The want of a Title or a Bad one may be ſupplied by preſcripti<g ref="char:EOLhyphen"/>on, or the ſubſequent conſent of the people, to which perhaps the moſt part of <hi>Princes</hi> muſt at laſt recurr, unleſs they would derive their <hi>Pedegree</hi> from one of the Sons of <hi>Noah,</hi> and inſtruct an uninterrupted Succeſſion ever ſince.</p>
+            <p>
+               <hi>Tyranny</hi> is the moſt miſerable condition a <hi>common-wealth</hi> can be in, it diſſolves the Union betwixt <hi>King</hi> and <hi>Subject,</hi> and expoſes both to all the miſeries that attend a <hi>civil Warr,</hi> and to the hazard of falling under a <hi>Forreign power;</hi> Yea even tho a <hi>Tyrrant</hi> ſhould be ſucceſsfull in his Attempt, yet is he as farr from his happineſs as ever, for be<g ref="char:EOLhyphen"/>ſides
+<pb n="6" facs="tcp:46770:5"/>
+the inward remorſes that inceſſantly gnawes his Conſcience he ſuſpects all Men, fears every thing, and is moſt juſtly hated by all, ſo that they did not Repreſent a <hi>Tyrrant</hi> ill, who drew him ſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting un<g ref="char:EOLhyphen"/>der a Cannopy of State feaſting in great Riot, with a naked Sword hanging over his Head.</p>
+            <p>What Remedie is there then againſt ſo great an Evil, are we tame<g ref="char:EOLhyphen"/>ly to ſubject our Necks to a Yoke ſo inſupportable to the more re<g ref="char:EOLhyphen"/>fined ſort of Men, or are we to reſiſt the <hi>Supreme Magiſtrate</hi> and Re<g ref="char:EOLhyphen"/>claim him by Arms when other means prove ineffectual? The difficulty is great and each opinion hath had its Champion who writ Volumes in defence of their cauſe.</p>
+            <p>The horrid Paricide of King <hi>Charles</hi> the 1. in the middle of this Age was with great heat and zeal defended by <hi>Milton,</hi> and Impugned by the Learned <hi>Salmaſius,</hi> who being a ſtranger to our Conſtitution, and the Tranſactions of our Country, (I ſpeak it with Reverence to ſo great a Man,) did but weakly defend ſo good a Cauſe in en<g ref="char:EOLhyphen"/>deavouring to prove, that <hi>Tyranny</hi> was not to be reſiſted, whereas he ſhould have Evinced (as eaſily he might) that <hi>Charles</hi> the <hi>1ſt.</hi> was a good Prince and no Tyrant.</p>
+            <p>The preſent Revolutions in <hi>England</hi> revives the diſpute and engages me contrary to my humour, to Impart my thoughts to the publick, with no other deſign then to contribute my m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an endeavours for vindicating the Nations Honour from the heavie Imputations of Treaſon and Rebellion, and if I can make out that Reſiſtance in ſome caſe is Lawful, I doubt not but I ſhall be eaſily able to Demon<g ref="char:EOLhyphen"/>ſtrate that the preſent taking up Arms by the <hi>Nobility</hi> and <hi>Gentry</hi> of <hi>England</hi> in Defence of their <hi>Religion, Laws and Liberties,</hi> is both juſt and neceſſary.</p>
+            <p>There are three Degrees of <hi>Reſiſtance,</hi> The firſt is the taking up Arms againſt the <hi>Civil Magiſtrate,</hi> The ſecond is, The Depoſing him, and ſhakeing off our <hi>Allegiance,</hi> The third proceeds to the inflicting of <hi>capital puniſhment:</hi> Which laſt ſeems inhumane, becauſe GOD has placed a certain Sacredneſs in the Perſon of Princes, ſo that none <hi>can touch the LORDS Anointed, and be guiltleſs,</hi> and the depriving them off their Crowns, is a great enough puniſhment, and our injuries are ſufficiently repaired, when we are out of the hazard of being any
+<pb n="7" facs="tcp:46770:5"/>
+more obnoxious to them; The other two may be allowed of, pro<g ref="char:EOLhyphen"/>viding the Remedies be applyed by fit perſons, after a due manner, and with ſuch caution as a matter of ſo great importance does require.</p>
+            <p>Firſt, By fit perſons, as the Nobility, Gentry, and other Repre<g ref="char:EOLhyphen"/>ſentatives of the Nation, who, as they are moſt concerned in the Laws, are ſuppoſed to underſtand them, and conſequently, are the beſt Judges of Liberty. And they are perſons of ſo much Honour that it were a piece of ill Breeding, to ſuſpect them of partiality. Se<g ref="char:EOLhyphen"/>condly, The Tyranny muſt be Evident and Manifeſt, ſome few Tyrannical Acts do not conſtitute Tyrannie: private injuries muſt be ſuffered, rather than hazard the <hi>publick peace,</hi> there muſt be a wil<g ref="char:EOLhyphen"/>ful <hi>ſubverſion of the Laws,</hi> not thoſe of leſſer moment, but ſuch as ſhake the very Foundations of Government. <hi>Davids</hi> Murder and Adultery were very Arbitrary and Tyrannical, and yet did not make him a Tyrant, for Humane Frailty is ſtill to be indulged, ſeing on this ſide of time perfection is not to be expected.</p>
+            <p>
+               <hi>Thirdly,</hi> This is a violent Remedy, and conſequently, ſhould be the laſt, it ought to be gone about with the greateſt Deliberation, and circumpection imaginable; when Addreſſes, petitions, Supplica<g ref="char:EOLhyphen"/>tions, and ſuch gentle Methods prove ineffectual.</p>
+            <p>
+               <hi>Fourthly,</hi> The <hi>Common-wealth</hi> muſt be in ſuch Danger, that the whole Fabrick would otherwiſe be Diſſolved and Overturned.</p>
+            <p>
+               <hi>Laſtly,</hi> The effectuating of the Deſign muſt be certain, otherwiſe, we fall into a worſe Evil, then what we ſeek to ſhun, for <hi>Confuſion</hi> and <hi>Anarchy</hi> are worſe than <hi>Tyranny,</hi> and a wounded head is better than none at all.</p>
+            <p>What is objected againſt this Opinion from the <hi>Old</hi> and <hi>New Te<g ref="char:EOLhyphen"/>ſtament,</hi> is very judiciouſly refuted by the Author of the <hi>Inquiry into the meaſures of Submiſſion.</hi>
+            </p>
+            <p>The ſecond Argument is taken from the <hi>Oath of Allegiance,</hi> which Subjects ſwear to their Prince, whereby they engage never to riſe in Armes againſt him. To which it is anſwered, that this Oath is acceſſory to the Contract agreed on betwixt the King and Peo<g ref="char:EOLhyphen"/>ple, and ſo muſt follow the nature of its <hi>principle.</hi> The Nature of all Contracts is <hi>Obligatory</hi> on both parties; ſo that if one of the parties fail in the performing his part, the other is looſed from his Obli<g ref="char:EOLhyphen"/>gation.
+<pb n="8" facs="tcp:46770:6"/>
+As its in this caſe, the People Devolve the power on the Prince upon certain conditions, expreſly ſpecified; The accepting of a Crown on ſuch Terms, binds the Prince to perform the Con<g ref="char:EOLhyphen"/>ditions, if he does not perform them he ineffect renounces his Right, and tacitely conſents that it return to thoſe who beſtowed it.</p>
+            <p>Lawyers ſay, that Contracts can only oblige Equals, and there<g ref="char:EOLhyphen"/>fore no paction betwixt King and Subiect can be binding, there is no force in this Argument, if we advert that when this Stipulation was made, the Prince and Subjects were equall and were only di<g ref="char:EOLhyphen"/>ſtinguiſhed after the power was conferred.</p>
+            <p>
+               <hi>Thirdly,</hi> They inſtance that this does not bind the Succeſſior, to which its anſwer'd, that the <hi>Prince</hi> engages for himſelf and Succeſſors, who if they would reap the advantage from their <hi>Predeceſſors,</hi> muſt have alſo the diſadvantage of being tyed to the ſame Rules they were adſtricted to. But for the further ſecurity none is admitted to the Government till they take the <hi>Coronation Oath.</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> They upbraid us with the example of the <hi>Primitive Chriſti<g ref="char:EOLhyphen"/>ans,</hi> who ſuffered the <hi>perſecution</hi> of <hi>Heathen Emperours,</hi> with the greateſt Moderation and Patience: I do admire as well as they the Conſtan<g ref="char:EOLhyphen"/>cy, patience, and other Vertues, which theſe Holy Men were endued with, but their caſe and ours is quite different. <hi>Paganiſme</hi> at that time was eſtabliſhed by <hi>Law</hi> and <hi>Chriſtianity</hi> condemned, the Profeſſors whereof ſuffered as the Diſturbers of the publick Peace, but bleſſed be GOD, the <hi>Law is now on our ſide,</hi> and our Religion is become a great part of our Property, and the peace of our Country, does very much depend on the preſervation of it, beſides if the <hi>Chriſtian Religi<g ref="char:EOLhyphen"/>on</hi> had been propagate by Arms, its Worth had been diminiſhed, and the Reputation of the firſt Founders of <hi>Chriſtianity</hi> had very much ſuffered, whereas the Morality and Juſtice of all its Precepts, the Holineſs and Purity of its Doctrine, were of ſufficient Efficacy to recommend it, and the Conſtancy and Reſolution, with which the firſt <hi>Chriſtians</hi> ſuffered Martyrdom; were ſtrong Motives to convince the <hi>Pagan World</hi> of the truth of it. But in our <hi>Chriſtian common Wealth</hi> where there are no moe <hi>Heathens</hi> to convert, as the robbing us of our Religion, would be the higheſt Act of in juſtice; So the parting with it tamely, would argue the greateſt Stupidity and inconcernedneſs at men can be capable of.</p>
+            <p>
+               <pb n="9" facs="tcp:46770:6"/>
+The only Difficulty that remains, is, who ſhall be Judge of the <hi>Princes</hi> Actions, to know when he is a <hi>Tyrrant</hi> and when not, if it were allowed to the <hi>Prince Himſelf,</hi> He would be too partial, if we ſhould conſtitute a Right in the People, they would be too apt to miſconſtrue the <hi>Princes</hi> Actions: (which ſhould ever receive the moſt Benign Interpretati<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n that the Subject can admit.) So that to ſhun bo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h Inconveniencies, the Controverſie muſt be decided by the Laws of the Kingdom. There is juſt ſuch a Plea betwixt the <hi>Church of Rome,</hi> and the <hi>Proteſtants</hi> concerning a <hi>Judge of Controverſies,</hi> they contend for the <hi>Pope as Chriſts Vicar;</hi> and reject the <hi>Scriptures,</hi> which we believe are the only <hi>Rule of Faith;</hi> and that in them all things which <hi>relate to Salvation are clearly ſet down,</hi> ſo that theſe of the meaneſt capacities may eaſily underſtand them.</p>
+            <p>In a <hi>Politick State</hi> the <hi>Supreme Magiſtrate</hi> is Sworn to Rule according to the Fundamental Laws of the Kingdom, which we muſt ſuppoſe are known both to King and People, becauſe they are a Rule to di<g ref="char:EOLhyphen"/>rect the Government of the one, and a meaſure of the obedience of the other, and were fairly enacted at the firſt conſtitution. Its true indeed, that if a Law made by the Civil Power contain any obſcurity, The ſole power of Interpreting that Law belongs to the Lawgivers; but we muſt imagine the Fundamental Laws full of perſpicuity, and except there be a notorious Violation of them, reſiſtance can never be lawful.</p>
+            <p>What has been ſaid on this general Head, will not anſwer the deſign of this paper, if it cannot be applyed to the preſent State of Affairs in <hi>England:</hi> For it is of no purpoſe to prove that Tyrrany is to be reſiſted by Arms, unleſs we make it appear that the <hi>Engliſh Government</hi> had altogether Degenerate into Tyranny, and that the taking up of Arms under the Auſpicious conduct of his Highneſs the <hi>Prince of Orange,</hi> was no raſh Act, but done after matture Deli<g ref="char:EOLhyphen"/>beration, and withal the circumſpection that an Affair of ſo great Im<g ref="char:EOLhyphen"/>portance did require.</p>
+            <p>The great and earneſt endeavours to have the <hi>Bill of Excluſion</hi> paſt, did ſufficiently evince, what fears and Jealouſies the Parliament had of the danger to which their Religion and Liberties would neceſſar<g ref="char:EOLhyphen"/>ly be expoſed under a <hi>Popiſh Succeſſor:</hi> His <hi>Majeſties</hi> behaviour ſince
+<pb n="10" facs="tcp:46770:7"/>
+he came to the Crown has clearly demonſtrate that theſe Fears were not groundleſs, for not being con<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent to Introduce the <hi>Popiſh Re<g ref="char:EOLhyphen"/>ligion</hi> ſo much contraire to Law, He hath endeavoured to alter the whole frame of the Conſtitution, and ſwallow up all our Liberties and Priviledges in an <hi>Arbitrary</hi> and <hi>Deſpotick Power.</hi>
+            </p>
+            <p n="1">1. The firſt ſtep was made againſt the freedom of <hi>Parliaments,</hi> (which makes up a great part of the Government by their having a ſhare of the <hi>Legiſlative Power</hi> lodged in them) by their Iſſuing out <hi>Quo<g ref="char:EOLhyphen"/>waranto's</hi> againſt all the <hi>Burghs</hi> and <hi>Corporations</hi> in <hi>England,</hi> the moſt part of them either through fear or force did ſurrender their <hi>Charters</hi> to the King, who placed ſuch Magiſtrates in them as he was moſt aſſured of, and by this means did altogether invert the freedom of Election.</p>
+            <p n="2">2. Nothing can be more contrary to Law, then the erecting of <hi>Seminaries</hi> of <hi>Prieſts</hi> and <hi>Jeſuits</hi> in all the <hi>Capital Cities of his Dominions,</hi> yea ſuch confidence hath he repoſed in that Order, that he hath committed the direction of his Conſcience to one of its Fathers, and was not aſhamed to own himſelf a ſon of the Society.</p>
+            <p n="3">3. His pretence to a <hi>Diſpenſing Power,</hi> was no mean breach of his <hi>Coronation Oath,</hi> for by it he Uſurped the whole <hi>Legiſlative Power;</hi> And would have impoſed on the People (in procuring the Votes of the <hi>Twelve Mercenary Judges)</hi> if they had not wiſely foreſeen the dan<g ref="char:EOLhyphen"/>gerous conſequences, and feared that his <hi>Majeſtie</hi> would farther ob<g ref="char:EOLhyphen"/>lige his <hi>Roman Catholick Subjects</hi> by Repealing all the <hi>Laws</hi> that were Enacted in Favours of the <hi>Proteſtant Religion.</hi>
+            </p>
+            <p>It was by vertue of this <hi>Diſpenſing Power,</hi> that the <hi>Eccleſiaſtick Commiſ<g ref="char:EOLhyphen"/>ſion</hi> was eſtabliſhed, the <hi>Biſhop of London ſuſpended,</hi> the <hi>Fellows of Mag<g ref="char:EOLhyphen"/>dalen Colledge turned out;</hi> And becauſe the <hi>Biſhops of England</hi> would not ſo farr Juſtifie his Illegal Pretences, as to cauſe their Clergy read the <hi>Declaration for Liberty of Conſcience</hi> from their <hi>Pulpits,</hi> they quickly ſaw all the fair promiſes made to them Evaniſh, and the <hi>Loyal Church of England</hi> was firſt branded with the infamous Character of <hi>Trumpeters</hi> of Rebellion, and afterwards treated as the worſt of <hi>Crimi<g ref="char:EOLhyphen"/>nals,</hi> a very bad recompenſe for that great zeal, with which they had ever Preached up the Impracticable Doctrine of <hi>Non-Reſiſtance.</hi>
+            </p>
+            <p n="4">4. In Proſecution of the Bleſſed Deſign of Reducing <hi>Heretieks</hi> to
+<pb n="11" facs="tcp:46770:7"/>
+the <hi>See of Rome,</hi> all ways were taken to diſcourage <hi>Proteſtants,</hi> who were not only debarred from Offices and Imployments of any Truſt, unleſs upon ſuch Conditions as the Court pleaſed to Impoſe, but were even turned out of theſe that had been <hi>Heritable</hi> to their Families; and a great part of the <hi>Militia</hi> was intruſted to <hi>Roman Catholicks,</hi> of purpoſe to <hi>Over<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aw</hi> the <hi>Parliaments,</hi> in caſe the next Aſſembly ſhould have proved ſtuborn.</p>
+            <p n="5">5. Tho by many Laws the holding correſpondance any way with <hi>Rome</hi> be declared high Treaſon, yet hath his <hi>Majeſtie</hi> had his Reſident there, and received his <hi>Nuncio</hi> here, to the great ſcandal of all good <hi>Proteſtants,</hi> and true hearted <hi>Engliſhmen;</hi> For its in effect a Subjecting the Kingdom to a Slavery, from which our Anceſtors had moſt gloriouſly delivered us. Theſe things were acted in face of the Sun, and none can deny them without renouncing the moſt comfortable of all his ſenſes: Yea, the King himſelf did ſufficiently acknowledge them, by his ſudden reſtoring the City Charters, <hi>Magda<g ref="char:EOLhyphen"/>lan Colledge,</hi> and ſome other of the groſſer ſort of Abuſes, upon the firſt Information <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e got of the <hi>Princes Declaration.</hi>
+            </p>
+            <p>The Kings old Age, and the fair Proſpect of a <hi>Proteſtant Succeſſor,</hi> made us ſuffer theſe things patiently, becauſe we hoped to be very ſhortly delivered from them, but to deſpaire us, and cut off all our hopes, and to puniſh the <hi>Prince and Princeſs of Orange,</hi> for refuſing to comply with the Kings Will, there is a ſudden rumour ſpread of the Queens being with Child, which as it did allarm the whole Kingdom, ſo it made theſe who were moſt concerned be at ſome pains to be aſſured of the truth of it, and yet after their moſt exact enquiry their doubts were encreaſed.</p>
+            <p>The Court was not ignorant of all this, and yet would not give themſelves the leaſt trouble to ſatisfie them, tho they had the great<g ref="char:EOLhyphen"/>eſt Intereſt in the world to do it.</p>
+            <p>The place of the Queens lying in, was ſo uncertain, and the ma<g ref="char:EOLhyphen"/>nagement of the Birth ſo miſterious, the ſending away the <hi>Princeſs of Denmark,</hi> the Impriſoning the <hi>Biſhops</hi> in the <hi>Tower,</hi> gave more then probable grounds to ſuſpect an <hi>Impoſture,</hi> and tho theſe be but pre<g ref="char:EOLhyphen"/>ſumptions, and have not the ſtrength of a full Probation, yet they transfer a neceſſity of eliding them by clearer evidences.</p>
+            <p>
+               <pb n="12" facs="tcp:46770:8"/>
+Thus our Religion, Liberties and Laws being ready to ſink, when Gentle methods had proven ineffectual, when Addreſſes and Sup<g ref="char:EOLhyphen"/>plications, even from the moſt Loyal part of the Nation, were coun<g ref="char:EOLhyphen"/>ted ſo many Acts of Treaſon, it was high time to recur to that re<g ref="char:EOLhyphen"/>medy which nature ſeems to dictate to every individual in its own defence.</p>
+            <p>That zeal with which his <hi>Highneſs the Prince of Orange,</hi> had ever eſpouſed the Proteſtant Intereſt againſt all its Adverſaries, made the Nobility and Gentry of <hi>England</hi> unanimouſly pitch on him as the fitteſt perſon to be their deliverer, and both He and his <hi>Princeſs</hi> being ſo nearly intereſted in the Succeſſion. No rational Man can blame him, for appearing in Arms and demanding ſatisfaction that way, which hitherto had been refuſ'd him<g ref="char:punc">▪</g> If the Remedie had been de<g ref="char:EOLhyphen"/>layed, its more then probable, the greater part of the Nation had fallen a Sacrifice to <hi>Popery</hi> and <hi>Arbitrary Government.</hi>
+            </p>
+            <p>I ſhall conclude all with a ſhort Reflection upon his <hi>Majeſties</hi> leav<g ref="char:EOLhyphen"/>ing the Kingdom, and going for <hi>France,</hi> which Action alone hath done him more hurt, than all the reſt together, for by Depriving Us of that <hi>protection</hi> which we might expect from his Government; He looſes his Subjects from that <hi>Allegiance</hi> they ſwore unto, upon no other Condition then ſo long as they ſhould enjoy ſo great a benefit: Nei<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her can any who knows his <hi>Majeſties</hi> Temper, impute his flight to Fear or Cowardiſe, but rather of his being conſcious of a <hi>certain guilt,</hi> which did baniſh him from one of the greateſt <hi>Stations in the World,</hi> and robbed him of that Bravery and Reſolution that he is na<g ref="char:EOLhyphen"/>turally ended with, and which tho he had wanted, yet Innocency had ſupported him, and made him outbrave all the Malicious Ca<g ref="char:EOLhyphen"/>lumnies of his Enemies, with ſuch a heroick conſtancie of mind, as ſeldom or never fails to come of <hi>Victorious.</hi>
+            </p>
+            <p>The <hi>Prince</hi> had alſo acquainted him in his <hi>Declaration,</hi> that he had no other deſign in coming to <hi>England,</hi> than to referr all the Grivances of the Nation and his own Pretences to a <hi>Free Parliament;</hi> Neither the King nor any man elſe, could ever accuſe this Prince with the leaſt breach of promiſe: And tho he had been wanting in that Reverence, that is due to the Character of an <hi>
+                  <g ref="char:V">Ʋ</g>ncle</hi> and <hi>Father in Law,</hi> yet the Princes own Intereſt had ſecured the King from any harſh Treatment, for if any thing had been attempted againſt his Perſon,
+<pb n="13" facs="tcp:46770:8"/>
+the Nations Eyes had been opened and would have ſeen clearly, that theſe ſpecious pretences of Liberty and Property, were but ſo many Deluſions, and ſuch a Treatment certainly had deſerved the grea<g ref="char:EOLhyphen"/>teſt Reſentment.</p>
+            <p>But if the King muſt needs go, can he find no place for ſhelter but <hi>France?</hi> Where ſo much Proteſtanr Blood hath been ſo lately ſhed, with the greateſt Cruelty and Barbarity that ever was heard; He cannot be ignorant that his Subjects have a natural Averſion for that Nation, and that his cloſs and conſtant Correſpondence with its <hi>Monarch,</hi> gave them juſt Jealouſies to apprehend, that there was more than an ordinary Friendſhip betwixt them, which was every day encreaſed, by his Copieing ſo near the methods that had been uſed in that Nation, for ſuppreſſing the <hi>Proteſtant Religion</hi> and eſtabliſhing <hi>Arbitrary Government.</hi> And if the King have any hopes to reduce his Subjects by Invading them on the Head of a <hi>French Army,</hi> he will find them but ill grounded, for inſtead of reconciling them to him, ſo dangerous and improper a method would even alienate the hearts of his beſt Friends, and <hi>Bri<g ref="char:EOLhyphen"/>tain</hi> would ſhow it ſelf as forward to Fight againſt <hi>Popery and Tyranny,</hi> as it was averſe from giving proofs of its Courage, when it muſt needs have been fatal to Liberty and the Proteſtant Religion.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
